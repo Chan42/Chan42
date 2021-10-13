@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Chan42
+- 👋 Hi, I’m @Chan_Oki
 - 👀 I’m interested in computing & coding
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning HTML, CSS, PHP, SQL
 - 💞️ I’m looking to collaborate on severals projects related to PHP
 - 📫 How to reach me tenzatenza42@gmail.com
 
