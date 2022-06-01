@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chan_Oki
 - 👀 I’m interested in computing & coding
-- 🌱 I’m currently learning HTML, CSS, PHP, SQL
-- 💞️ I’m looking to collaborate on severals projects related to PHP
+- 🌱 I’m currently learning HTML, CSS, PHP, SQL, Javascript, Deluge
+- 💞️ I’m looking to collaborate on severals projects related to PHP, Javascript
 - 📫 How to reach me tenzatenza42@gmail.com
 
 <!---
